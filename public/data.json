@@ -1,0 +1,38 @@
+[
+    {
+        "id": 4,
+        "img": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "author_img": "https://github.com/najmulhoque/bike-zone/blob/main/assets/IMG_8753%20(2).jpg?raw=true",
+        "author_name": "Najmul Hoque",
+        "publish_date": "Mar 14 (4 Days ago)",
+        "blog_title": "How to get your first job as a self-taught programmer",
+        "book_mark_time": 30
+    },
+    {
+        "id": 2,
+        "img": "https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cmFuZG9tJTIwcGVyc29ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "author_name": "Mrs. Setara",
+        "publish_date": "Apr 14 (4 Days ago)",
+        "blog_title": "How to get your first job as a self-taught programmer",
+        "book_mark_time": 15
+    },
+    {
+        "id": 3,
+        "img": "https://images.unsplash.com/photo-1617203443952-6d2619f7ff4e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGxhd3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "author_img": "https://raw.githubusercontent.com/najmulhoque/bike-zone/main/assets/271282590_1358833831201511_347611344965377607_n.jpg",
+        "author_name": "Md. Hiron",
+        "publish_date": "Dec 14 (4 Days ago)",
+        "blog_title": "How to get your first job as a self-taught judicial magistrate",
+        "book_mark_time": 20
+    },
+    {
+        "id": 1,
+        "img": "https://images.unsplash.com/photo-1455165814004-1126a7199f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2VsZGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "author_img": "https://raw.githubusercontent.com/najmulhoque/bike-zone/main/assets/240595958_887197022207585_8100117900622468985_n.jpg",
+        "author_name": "Sahrirar Najim Joy",
+        "publish_date": "Mar 14 (4 Days ago)",
+        "blog_title": "How to get your first job as a self-taught Welder",
+        "book_mark_time": 10
+    }
+]

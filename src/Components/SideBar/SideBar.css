@@ -1,0 +1,9 @@
+.spent-time {
+    border: 2px solid blue;
+    margin-top: 10px;
+    padding: 8px;
+    color: blue;
+    border-radius: 10px;
+    background: rgba(96, 71, 236, 0.1);
+
+}
